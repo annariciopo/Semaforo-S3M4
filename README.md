@@ -79,7 +79,7 @@ void loop() {
 
 ## Avaliação em Pares
 
-**Avaliador**: Gabriel Martins
+**Avaliador**: Gabriel Henrique Martins Alves
 
 | Critério                                                                                                 | Contempla (Pontos) | Contempla Parcialmente (Pontos) | Não Contempla (Pontos) | Observações do Avaliador |
 |---------------------------------------------------------------------------------------------------------|--------------------|----------------------------------|--------------------------|---------------------------|
