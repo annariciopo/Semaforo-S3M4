@@ -48,7 +48,6 @@ void loop() {
   digitalWrite(ledVerde, HIGH);
   delay(2000);
   // simulando um tempo adicional para pedestres terminarem a travessia
-  digitalWrite(ledVerde, HIGH);
   delay(2000);
   digitalWrite(ledVerde, LOW);
     
